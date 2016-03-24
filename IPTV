@@ -18,7 +18,7 @@ http://anarchitv.co/ch20il.m3u8
 #EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",ישראל 9 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/3.m3u8
 #EXTINF:55 logo="http://anarchitv.co/TV/Logos/5.png" channel-id="55" epg-id="55" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
-http://62.90.90.57:1935/sport5_LiveIsraelRepeat/_definst_/smil:LiveIsrael.smil/media.m3u8
+http://il-bi-s05.014.vidnt.com:1935/sport5_LiveIsraelRepeat/_definst_/smil:LiveIsrael.smil/media.m3u8
 #EXTINF:558 logo="http://anarchitv.co/TV/Logos/ספורט%20מתחלף.png" channel-id="556" epg-id="556" group-title="Israel" tvg-logo="ספורט%20מתחלף.png",ספורט מתחלף [B][COLOR lime] ישראל - [/COLOR][/B]
 http://hotwowza.onecoil.netdna-cdn.com/live1/ngrp:404ed5e845d0dd9006845d66dbff1044_all/playlist.m3u8
 #EXTINF:333 logo="http://anarchitv.co/TV/Logos/2news.png" channel-id="333" epg-id="333" group-title="Israel" tvg-logo="2news.png",ערוץ חדשות 2 [B][COLOR lime] ישראל - [/COLOR][/B]

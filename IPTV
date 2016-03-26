@@ -1,6 +1,6 @@
 #EXTM3U
 ###########################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]24/3 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]26/3 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://w.com
 #EXTINF:26 logo="http://anarchitv.co/TV/Logos/BigBrother.png" channel-id="26" epg-id="26" group-title="Israel" tvg-logo="BigBrother.png",[COLOR orange] HD האח הגדול[/COLOR] [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/bblive.m3u8
@@ -15,6 +15,10 @@ http://anarchitv.co/tvv/2livek.m3u8
 http://anarchitv.co/ch20il.m3u8
 #EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",ישראל 9 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/3.m3u8
+
+#EXTINF:21 logo="http://anarchitv.co/TV/Logos/21.png" channel-id="21" epg-id="21" group-title="Israel" tvg-logo="21.png",ערוץ הקניות [B][COLOR lime] ישראל - [/COLOR][/B]
+http://80.244.172.12:80/ch21Live/ch21Live_med.m3u8
+
 #EXTINF:55 logo="http://anarchitv.co/TV/Logos/5.png" channel-id="55" epg-id="55" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
 http://il-bi-s05.014.vidnt.com:1935/sport5_LiveIsraelRepeat/_definst_/smil:LiveIsrael.smil/media.m3u8
 

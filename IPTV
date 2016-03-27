@@ -143,13 +143,13 @@ http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8
 
 ##############################################################################################
 ###############################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/dis2overy.png" group-title="Israel" tvg-logo="disco2ery.png",צל של אמת - פרק ראשון [B][COLOR red] סדרות - [/COLOR][/B]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/1122.jpg" group-title="Israel" tvg-logo="1122.jpg",צל של אמת - פרק ראשון [B][COLOR red] סדרות - [/COLOR][/B]
 http://anarchitv.co/tvv/1.m3u8
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/dis2overy.png" group-title="Israel" tvg-logo="disco2ery.png",צל של אמת - פרק שני [B][COLOR red] סדרות - [/COLOR][/B]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/1122.jpg" group-title="Israel" tvg-logo="1122.jpg",צל של אמת - פרק שני [B][COLOR red] סדרות - [/COLOR][/B]
 http://anarchitv.co/tvv/2.m3u8
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/dis2overy.png" group-title="Israel" tvg-logo="disco2ery.png",צל של אמת - פרק שלישי [B][COLOR red] סדרות - [/COLOR][/B]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/1122.jpg" group-title="Israel" tvg-logo="1122.jpg",צל של אמת - פרק שלישי [B][COLOR red] סדרות - [/COLOR][/B]
 http://anarchitv.co/tvv/33.m3u8
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/dis2overy.png" group-title="Israel" tvg-logo="disco2ery.png",צל של אמת - פרק רביעי [B][COLOR red] סדרות - [/COLOR][/B]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/1122.jpg" group-title="Israel" tvg-logo="1122.jpg",צל של אמת - פרק רביעי [B][COLOR red] סדרות - [/COLOR][/B]
 http://anarchitv.co/tvv/4.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/simpsons%20.png" group-title="Series" tvg-logo="simpsons%20.png", הסימפסונים [B][COLOR red] סדרות - [/COLOR][/B]
 http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8

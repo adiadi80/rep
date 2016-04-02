@@ -22,7 +22,7 @@ http://80.244.172.12:80/ch21Live/ch21Live_med.m3u8
 #EXTINF:55 logo="http://anarchitv.co/TV/Logos/5.png" channel-id="55" epg-id="55" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
 http://il-bi-s05.014.vidnt.com:1935/sport5_LiveIsraelRepeat/_definst_/smil:LiveIsrael.smil/media.m3u8
 #EXTINF:558 logo="http://anarchitv.co/TV/Logos/ספורט%20מתחלף.png" channel-id="556" epg-id="556" group-title="Israel" tvg-logo="ספורט%20מתחלף.png",ספורט מתחלף [COLOR blue] [[/COLOR][COLOR red]ישראלי [COLOR green]ספורט[/COLOR][/COLOR][COLOR blue]][/COLOR]
-https://video06-lax.streamup.com/app/milotvhd1hhs-stream_aac/chunklist.m3u8
+http://hotwowza.onecoil.netdna-cdn.com/live1/ngrp:c7a11fe52779806942daa87dd5674628_all/playlist.m3u8
 #EXTINF:333 logo="http://anarchitv.co/TV/Logos/2news.png" channel-id="333" epg-id="333" group-title="Israel" tvg-logo="2news.png",ערוץ חדשות 2 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 

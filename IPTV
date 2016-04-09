@@ -40,8 +40,8 @@ http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8
 
 #EXTINF:66 logo="http://anarchitv.co/TV/Logos/66.png" channel-id="66" epg-id="66" group-title="Israel" tvg-logo="66.png",ערוץ הקבלה [B][COLOR lime] ישראל - [/COLOR][/B]
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/ישראל%20לנד.png" group-title="Israel" tvg-logo="ישראל%20לנד.png",IL and [B][COLOR lime] ישראל - [/COLOR][/B]
-http://sw.gostreaming.tv:1935/live/smil:myStream.smil/playlist.m3u8?b?b*t$
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/ישראל%20לנד.png" group-title="Israel" tvg-logo="ישראל%20לנד.png",ILand [B][COLOR lime] ישראל - [/COLOR][/B]
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/מקור.png" group-title="Israel" tvg-logo="מקור.png",שלום טיוי [B][COLOR lime] ישראל - [/COLOR][/B]
 http://109.68.190.192:1935/israil/israil.stream/playlist.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/TV7.png" group-title="Israel" tvg-logo="TV7.png",TV 7 [B][COLOR lime] ישראל - [/COLOR][/B]

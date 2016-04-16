@@ -19,7 +19,7 @@ http://anarchitv.co/tvv/3.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/90.png" group-title="Israel" tvg-logo="90.png",פסח לילדים [B][COLOR lime] ישראל - [/COLOR][/B]
 http://stream.ssh101.com:1935/live/9992/chunklist.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/Present.png" group-title="Israel" tvg-logo="Present.png", [COLOR yellow] ספורט בהפתעה[/COLOR] [B] [B][COLOR lime] ישראל - [/COLOR][/B]
-http://anarchitv.co/tvv/s5.m3u8
+http://stream.ssh101.com:1935/live/9993/chunklist.m3u8
 
 #EXTINF:333 logo="http://anarchitv.co/TV/Logos/2news.png" channel-id="333" epg-id="333" group-title="Israel" tvg-logo="2news.png",ערוץ חדשות 2 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2000_av-p.m3u8?sd=10&rebase=on

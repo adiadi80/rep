@@ -1,6 +1,6 @@
 #EXTM3U
 ###########################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]17/4 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]18/4 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://w.com
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" group-title="Israel" tvg-logo="anarchi.png",[COLOR orange] הודעה חשובה[/COLOR] [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/4.m3u8
@@ -18,6 +18,8 @@ http://anarchitv.co/tvv/ch10grabber.m3u8
 http://anarchitv.co/tvv/3.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/90.png" group-title="Israel" tvg-logo="90.png",פסח לילדים [B][COLOR lime] ישראל - [/COLOR][/B]
 http://stream.ssh101.com:1935/live/9992/chunklist.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
+http://62.90.90.57:1935/sport5_Live3Repeat/_definst_/smil:LiveIsrael.smil/manifest.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/Present.png" group-title="Israel" tvg-logo="Present.png", [COLOR yellow] ספורט בהפתעה[/COLOR] [B] [B][COLOR lime] ישראל - [/COLOR][/B]
 http://stream.ssh101.com:1935/live/9993/chunklist.m3u8
 

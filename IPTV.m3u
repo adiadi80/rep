@@ -17,7 +17,7 @@ http://anarchitv.co/tvv/ch10grabber.m3u8
 #EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",ישראל 9 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/3.m3u8
 
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 רגיל/גולד [B][COLOR lime] ישראל - [/COLOR][/B]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 גולד [B][COLOR lime] ישראל - [/COLOR][/B]
 http://edge.hls.hitbox.tv/hls/ll/sparta4f/index.m3u8?st=iGJfzGl_5RT2wLPnUfXtkA;ci=2Vvi6nY-7TMsoFd1VnKfWg
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
 http://62.90.90.57:1935/sport5_Live3Repeat/_definst_/smil:LiveIsrael.smil/manifest.m3u8

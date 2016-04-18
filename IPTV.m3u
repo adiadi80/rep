@@ -771,7 +771,7 @@ http://flash.softhost.com.br:1935/fonte/fontetv.stream/live.m3u8
 ###################################################################################################
 ###################################################################################################
 #EXTINF:-1 group-title="Radio" radio="true",גלגל"צ [B][COLOR grey] רדיו - [/COLOR][/B]
-http://test.live.net.il/glgltz-a-zixief.m3u8 
+http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" radio="true",גלי צה"ל [B][COLOR grey] רדיו - [/COLOR][/B]
 http://80.244.172.12/glz-a-zixief/glz-a-zixief.m3u8 
 #EXTINF:-1 group-title="Radio" radio="true",אקו 99 [B][COLOR grey] רדיו - [/COLOR][/B]

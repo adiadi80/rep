@@ -16,9 +16,14 @@ http://31.168.228.113/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/ch
 http://anarchitv.co/tvv/ch10grabber.m3u8
 #EXTINF:9 logo="http://anarchitv.co/TV/Logos/9.png" channel-id="9" epg-id="9" group-title="Israel" tvg-logo="9.png",ישראל 9 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/3.m3u8
-
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",ספורט מתחלף [B][COLOR lime] ישראל - [/COLOR][/B]
-http://stream.ssh101.com:1935/live/9993/playlist.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",ניקולודאון [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/tvv/nickil.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",זום [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/tvv/zoomil.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",קולנוע ישראלי [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/tvv/s5il.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",ספורט 5 פלוס [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/tvv/s5pil.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
 http://62.90.90.57:1935/sport5_Live3Repeat/_definst_/smil:LiveIsrael.smil/manifest.m3u8
 

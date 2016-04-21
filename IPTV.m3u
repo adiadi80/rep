@@ -22,6 +22,8 @@ http://anarchitv.co/tvv/nickil.m3u8
 http://anarchitv.co/tvv/zoomil.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",קולנוע ישראלי [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/s5il.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",ערוץ הספורט [B][COLOR lime] ישראל - [/COLOR][/B]
+http://anarchitv.co/tvv/s5real.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",ספורט 5 פלוס [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/s5pil.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/776.png" group-title="Israel" tvg-logo="776.png",ספורט מתחלף [B][COLOR lime] ישראל - [/COLOR][/B]

@@ -726,7 +726,7 @@ http://99.livecdn.biz/99fm_aac?type=.flv
 #EXTINF:-1 group-title="Radio" radio="true",ֳרדיו תל אביב [B][COLOR grey] רדיו - [/COLOR][/B]
 rtmp://fms3.mediacast.co.il/liveradio playpath=102.stream swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.5.swf?0.2779204686896638 pageUrl=http://face.mediacast.co.il/102fm/audio/
 #EXTINF:-1 group-title="Radio" radio="true",88 FM [B][COLOR grey] רדיו - [/COLOR][/B]
-http://82.80.192.28/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
+http://31.168.228.117/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/chunklist_w2102426637_b202000.m3u8
 #EXTINF:-1 group-title="Radio" radio="true",קול רגע 91.5/96 [B][COLOR grey] רדיו - [/COLOR][/B]
 http://96fm.castlive.co.il/96fm_aac?type=.flv
 #EXTINF:-1 group-title="Radio" radio="true",100 FM [B][COLOR grey] רדיו - [/COLOR][/B]
@@ -736,9 +736,9 @@ http://gly-switch1.level1.co.il:9000/live
 #EXTINF:-1 group-title="Radio" radio="true",רדיו חיפה [B][COLOR grey] רדיו - [/COLOR][/B]
 rtmp://cdn10.mediacast.co.il:1935/liveradio playpath=1075.stream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf
 #EXTINF:-1 group-title="Radio" radio="true",רשת ב [B][COLOR grey] רדיו - [/COLOR][/B]
-http://62.90.90.37/iba_radio-betMRepeat/_definst_/smil:radio-betM.smil/playlist.m3u8
+http://62.90.90.57/iba_radio-betMRepeat/_definst_/smil:radio-betM.smil/chunklist_w864323104_b202000.m3u8
 #EXTINF:-1 group-title="Radio" radio="true",רשת ג [B][COLOR grey] רדיו - [/COLOR][/B]
-http://82.80.192.2/iba_radio-gimelMRepeat/_definst_/smil:radio-gimelM.smil/playlist.m3u8
+http://82.80.192.27/iba_radio-gimelMRepeat/_definst_/smil:radio-gimelM.smil/chunklist_w514673364_b202000.m3u8
 #EXTINF:-1 group-title="Radio" radio="true",99.5 FM [B][COLOR grey] רדיו - [/COLOR][/B]
 http://46.4.41.68:8000/995fm?type=.flv
 #EXTINF:-1 group-title="Radio" radio="true",RadioDance רדיו [B][COLOR grey] רדיו - [/COLOR][/B]

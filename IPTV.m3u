@@ -1,6 +1,6 @@
 #EXTM3U
 ###########################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]18/5 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]20/5 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://w.com
 #EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png", הערוץ הראשון [B][COLOR lime] ישראל - [/COLOR][/B]
 http://82.80.192.27/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1848211343_b1392000.m3u8
@@ -65,7 +65,9 @@ http://77.120.118.235:8089
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/comedyc.png" tvg-logo="comedyc.png" group-title="Entertainment", Comedy Central [B][COLOR red] בידור - [/COLOR][/B]
 http://78.56.221.9:7059/comedy
 ########################################################
-#EXTINF:0,Nat geo wild HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+#EXTINF:0,History Channel R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://213.80.208.244:34040/udp/233.12.144.108:5050
+#EXTINF:0,Nat Geo wild HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://178.172.245.155:4323/udp/238.1.0.2:1234
 #EXTINF:0,IQ HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://178.172.245.155:4323/udp/238.1.0.1:1234
@@ -117,12 +119,7 @@ http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 ##############################################################################################
 ###############################################################################################
-#EXTINF:-1 group-title="Music",MTV Hits [B][COLOR blue] מוזיקה - [/COLOR][/B]
-http://194.8.147.146:4022/udp/239.0.0.205:4000 
-#EXTINF:-1 group-title="Music",MTV Rocks [B][COLOR blue] מוזיקה - [/COLOR][/B]
-http://5.135.139.145:80/MTV_Rocks/mono.m3u8
-#EXTINF:-1 group-title="Music",MTV Dance [B][COLOR blue] מוזיקה - [/COLOR][/B]
-http://194.8.147.146:4022/udp/239.0.0.80:4000
+
 #EXTINF:-1 group-title="Music", Amazing TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:946 logo="http://anarchitv.co/TV/Logos/Heart%20TV.png" channel-id="946" epg-id="946" group-title="Music" tvg-logo="Heart%20TV.png",Heart TV [B][COLOR blue] מוזיקה - [/COLOR][/B]

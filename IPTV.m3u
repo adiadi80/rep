@@ -24,6 +24,14 @@ http://82.80.192.27/iba_channel-33MRepeat/_definst_/smil:channel-33M.smil/playli
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:99 logo="http://anarchitv.co/TV/Logos/99.png" channel-id="99" epg-id="99" group-title="Israel" tvg-logo="99.png",ערוץ הכנסת 99 [B][COLOR lime] ישראל - [/COLOR][/B]
 mmsh://212.235.5.241/knessetlive
+#EXTINF:-1 group-title="Kids",ערוץ הילדים, לופ [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
+http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kids",ערוץ זום, לופ [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
+http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear7.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kids",ערוץ סדרות ברצף [B][COLOR orange] ישראלי - [/COLOR][/B]
+http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear4.smil/chunklist_w750580762_b1164000.m3u8
+
+
 #EXTINF:91 logo="http://anarchitv.co/TV/Logos/meir.png" channel-id="91" epg-id="91" group-title="Israel" tvg-logo="meir.png",ערוץ מאיר [B][COLOR lime] ישראל - [/COLOR][/B]
 http://82.80.198.100:1935/live/live1/playlist.m3u8
 #EXTINF:67 logo="http://anarchitv.co/TV/Logos/hida.png" channel-id="67" epg-id="67" group-title="Israel" tvg-logo="hida.png",ערוץ ההידברות [B][COLOR lime] ישראל - [/COLOR][/B]

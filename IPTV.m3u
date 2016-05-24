@@ -3,7 +3,7 @@
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]24/5 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://w.com
 #EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png", הערוץ הראשון [B][COLOR lime] ישראל - [/COLOR][/B]
-http://62.90.90.44:1935/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w2006593049_b1392000.m3u8
+http://31.168.228.113:1935/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w2006593049_b1392000.m3u8
 #EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/2live1.m3u8
 #EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
@@ -84,8 +84,10 @@ http://2.137.38.162:4022/udp/239.0.0.174:8208
 ########################################################
 #EXTINF:0,History Channel R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://213.80.208.244:34040/udp/233.12.144.108:5050
-#EXTINF:0,Nat Geo wild HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+#EXTINF:0,Nat Geo wild R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://178.172.245.155:4323/udp/238.1.0.2:1234
+#EXTINF:0,Nat Geo wild HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.9.136:8208 
 #EXTINF:0,National Geographic HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://2.137.38.162:4022/udp/239.0.5.78:8208 
 #EXTINF:0,IQ HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]

@@ -48,17 +48,24 @@ http://109.68.190.192:1935/israil/israil.stream/playlist.m3u8
 rtmp://vod.tv7.fi/tv7-fi/mp4:tv7-fi.stream_360p
 ##########################################################
 ##########################################################
-
-#EXTINF:-1 group-title="Kids",Disney XD [B][COLOR orange] ילדים - [/COLOR][/B]
-http://193.8.246.110:8087
+#EXTINF:-1,Nick Jr R/E [B][COLOR orange] ילדים - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.115:8208
+#EXTINF:-1,Nickelodeon R/E [B][COLOR orange] ילדים - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.69:8208
+#EXTINF:-1,Disney XD R/E [B][COLOR orange] ילדים - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.11:8208
+#EXTINF:-1,Disney Channel R/E [B][COLOR orange] ילדים - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.64:8208
+#EXTINF:-1,Disney Channel HD R/E [B][COLOR orange] ילדים - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.173:8208 
+#EXTINF:-1,Baby TV R/E [B][COLOR orange] ילדים - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.113:8208
+#EXTINF:-1,Disney Junior R/E [B][COLOR orange] ילדים - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.10:8208 
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nickel2deon.png" group-title="Kids" tvg-logo="nickel2deon.png",תוכן לילדים [B][COLOR orange] ילדים - [/COLOR][/B]
 http://anarchitv.co/tvv/tr.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/bobi.png" group-title="Kids" tvg-logo="bobi.png",בובספוג ברצף [B][COLOR orange] ילדים - [/COLOR][/B]
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/disneyjunior.png" group-title="Kids" tvg-logo="disneyjunior.png",Disney JR R/E[B][COLOR orange] ילדים - [/COLOR][/B]
-http://195.228.11.89:4080/udp/225.255.255.71:10000
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nickelodeon.png" group-title="Kids" tvg-logo="nickelodeon.png",Nick R/E[B][COLOR orange] ילדים - [/COLOR][/B]
-http://188.128.118.189:4304
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/cartoonnetwork.png" group-title="Kids" tvg-logo="cartoonnetwork.png",Cartoon Network [B][COLOR orange] ילדים - [/COLOR][/B]
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 
@@ -72,13 +79,15 @@ http://77.120.118.235:8089
 
 ########################################################
 ########################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/comedyc.png" tvg-logo="comedyc.png" group-title="Entertainment", Comedy Central [B][COLOR red] בידור - [/COLOR][/B]
-http://78.56.221.9:7059/comedy
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/comedyc.png" tvg-logo="comedyc.png" group-title="Entertainment", Comedy Central HD R/E[B][COLOR red] בידור - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.174:8208 
 ########################################################
 #EXTINF:0,History Channel R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://213.80.208.244:34040/udp/233.12.144.108:5050
 #EXTINF:0,Nat Geo wild HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://178.172.245.155:4323/udp/238.1.0.2:1234
+#EXTINF:0,National Geographic HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.5.78:8208 
 #EXTINF:0,IQ HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://178.172.245.155:4323/udp/238.1.0.1:1234
 #EXTINF:0,CBS Reality  R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
@@ -129,7 +138,10 @@ http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 ##############################################################################################
 ###############################################################################################
-
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VH1.png" group-title="Music" tvg-logo="VH1.png",VH1 R/E [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.75:8208
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/MTV%20MUSIC.png" group-title="Music" tvg-logo="MTV%20MUSIC.png",MTV R/E [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.0.211:8208
 #EXTINF:-1 group-title="Music", Amazing TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:946 logo="http://anarchitv.co/TV/Logos/Heart%20TV.png" channel-id="946" epg-id="946" group-title="Music" tvg-logo="Heart%20TV.png",Heart TV [B][COLOR blue] מוזיקה - [/COLOR][/B]
@@ -143,8 +155,7 @@ http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/M2O.png" group-title="Music" tvg-logo="M2O.png",M2o Music [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8 
 
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VH1.png" group-title="Music" tvg-logo="VH1.png",VH1 [B][COLOR blue] מוזיקה - [/COLOR][/B]
-http://194.8.147.146:4022/udp/239.0.0.58:4000
+
 #EXTINF:-1 group-title="Music",VH1 Classic [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://194.8.147.146:4022/udp/239.0.0.44:4000 
 #EXTINF:-1 group-title="Music", Vox Music [B][COLOR blue] מוזיקה - [/COLOR][/B]
@@ -187,7 +198,7 @@ http://play.lanet.tv/live/9025.m3u8
 #EXTINF:-1 group-title="News",BBC World [B][COLOR yellow] חדשות - [/COLOR][/B]
 http://37.235.186.133:4022/udp/225.50.66.21:1234
 #EXTINF:-1 group-title="News",Fox News [B][COLOR yellow] חדשות - [/COLOR][/B]
-http://iptvbox.noip.us:9998/live/mile/skype/727.ts
+http://2.137.38.162:4022/udp/239.0.7.65:8208 
 #EXTINF:-1 group-title="News",London Live [B][COLOR yellow] חדשות - [/COLOR][/B]
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1 group-title="News",Florida CH [B][COLOR yellow] חדשות - [/COLOR][/B]

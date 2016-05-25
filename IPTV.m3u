@@ -14,6 +14,9 @@ rtmp://89.163.134.104:2000/site/anal911_..........
 http://anarchitv.co/ch20il.m3u8
 #EXTINF:24 logo="http://anarchitv.co/TV/Logos/24.png" channel-id="24" epg-id="24" group-title="Israel" tvg-logo="24.png",ערוץ המוזיקה [B][COLOR lime] ישראל - [/COLOR][/B]
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/one.png" group-title="Israel" tvg-logo="one.png",ויוה ישראל [B][COLOR lime] ישראל - [/COLOR][/B]
+http://televiz.net/tvv/viva.m3u8
+
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/one.png" group-title="Israel" tvg-logo="one.png",One ערוץ [B][COLOR lime] ישראל - [/COLOR][/B]
 http://82.80.192.13:1935/plph_PelOneHD1Repeat/_definst_/smil:PelOneHD1.smil/chunklist.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 מובייל [B][COLOR lime] ישראל - [/COLOR][/B]
@@ -26,6 +29,8 @@ http://82.80.192.27/iba_channel-33MRepeat/_definst_/smil:channel-33M.smil/playli
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:99 logo="http://anarchitv.co/TV/Logos/99.png" channel-id="99" epg-id="99" group-title="Israel" tvg-logo="99.png",ערוץ הכנסת 99 [B][COLOR lime] ישראל - [/COLOR][/B]
 mmsh://212.235.5.241/knessetlive
+#EXTINF:-1 group-title="Kids",ערוץ הופ ישיר[B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
+http://televiz.net/tvv/hop.m3u8
 #EXTINF:-1 group-title="Kids",ערוץ הילדים, לופ [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
 http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kids",ערוץ זום, לופ [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]

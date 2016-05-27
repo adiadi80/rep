@@ -29,8 +29,8 @@ http://82.80.192.27/iba_channel-33MRepeat/_definst_/smil:channel-33M.smil/playli
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:99 logo="http://anarchitv.co/TV/Logos/99.png" channel-id="99" epg-id="99" group-title="Israel" tvg-logo="99.png",ערוץ הכנסת 99 [B][COLOR lime] ישראל - [/COLOR][/B]
 mmsh://212.235.5.241/knessetlive
-#EXTINF:-1 group-title="Kids",ערוץ הופ ישיר[B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
-http://televiz.net/tvv/hop.m3u8
+#EXTINF:-1 group-title="Kids",ערוץ הילדים ישיר[B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
+http://televiz.net/tvv/shesh.m3u8
 #EXTINF:-1 group-title="Kids",ערוץ הילדים, לופ [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
 http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kids",ערוץ זום, לופ [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]

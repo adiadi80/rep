@@ -90,22 +90,27 @@ http://78.56.221.9:7059/comedy
 ########################################################
 #EXTINF:0,History Channel R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://213.80.208.244:34040/udp/233.12.144.108:5050
-#EXTINF:0,Nat Geo wild R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.2:1234
+#EXTINF:0,Nat Geo WILD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://37.195.219.210:81/udp/239.1.5.16:1234
 #EXTINF:0,Nat Geo wild HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://2.137.38.162:4022/udp/239.0.9.136:8208 
-#EXTINF:0,National Geographic HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://2.137.38.162:4022/udp/239.0.5.78:8208 
+#EXTINF:0,National Geographic R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://37.195.219.210:81/udp/239.1.5.8:1234
 #EXTINF:0,IQ HD R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://178.172.245.155:4323/udp/238.1.0.1:1234
-#EXTINF:0,CBS Reality  R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+#EXTINF:0,CBS Reality R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://178.172.245.155:4323/udp/238.1.0.71:1234
-#EXTINF:0,Animal planet HD  R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.4:1234
+#EXTINF:-1,Discovery Science R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://37.195.219.210:81/udp/239.1.5.9:1234
+#EXTINF:0,Animal planet  R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://37.195.219.210:81/udp/239.1.5.3:1234
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/discovery.png" group-title="Documentary" tvg-logo="discovery.png",Discovery Channel -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://79.133.108.48:8888/udp/239.191.254.34:13343
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Documentary" tvg-logo="nationalgeographic.png", National Geographic HD-R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
+http://2.137.38.162:4022/udp/239.0.5.78:8208
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Documentary" tvg-logo="nationalgeographic.png", National Geographic -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://178.172.245.155:4323/udp/238.1.0.19:1234
+
 #EXTINF:331 logo="http://anarchitv.co/TV/Logos/RT%20Documentary.png" channel-id="331" epg-id="331" group-title="Documentary" tvg-logo="RT%20Documentary.png", RT Documentary [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 
@@ -148,6 +153,8 @@ http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 ###############################################################################################
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VH1.png" group-title="Music" tvg-logo="VH1.png",VH1 R/E [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://2.137.38.162:4022/udp/239.0.0.75:8208
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VH1.png" group-title="Music" tvg-logo="VH1.png",VH1 Classic R/E [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://37.195.219.210:81/udp/239.1.8.7:1234
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/MTV%20MUSIC.png" group-title="Music" tvg-logo="MTV%20MUSIC.png",MTV R/E [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://2.137.38.162:4022/udp/239.0.0.211:8208
 #EXTINF:-1 group-title="Music", Amazing TV [B][COLOR blue] מוזיקה - [/COLOR][/B]

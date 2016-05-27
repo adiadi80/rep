@@ -1,9 +1,9 @@
 #EXTM3U
 ###########################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]25/5 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]27/5 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://w.com
 #EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png",הערוץ הראשון [B][COLOR lime] ישראל - [/COLOR][/B]
-http://stream.ssh101.com:1935/live/cheleven/chunklist.m3u8
+http://televiz.net/tvv/1.m3u8
 #EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
 http://anarchitv.co/tvv/2livek.m3u8
 #EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]
@@ -85,7 +85,7 @@ http://77.120.118.235:8089
 ########################################################
 ########################################################
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/comedyc.png" tvg-logo="comedyc.png" group-title="Entertainment", Comedy Central HD R/E[B][COLOR red] בידור - [/COLOR][/B]
-http://2.137.38.162:4022/udp/239.0.0.174:8208 
+http://78.56.221.9:7059/comedy
 ########################################################
 #EXTINF:0,History Channel R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://213.80.208.244:34040/udp/233.12.144.108:5050

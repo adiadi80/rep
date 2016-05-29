@@ -744,6 +744,8 @@ http://flash.softhost.com.br:1935/fonte/fontetv.stream/live.m3u8
 http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" radio="true",גלי צה"ל [B][COLOR grey] רדיו - [/COLOR][/B]
 http://glzlv01.vds-is.bynetcdn.com/glz/glz_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio" radio="true",רדיו ירושלים [B][COLOR grey] רדיו - [/COLOR][/B]
+http://server1.live1.co.il:8004/jrs101fm
 #EXTINF:-1 group-title="Radio" radio="true",אקו 99 [B][COLOR grey] רדיו - [/COLOR][/B]
 http://99.livecdn.biz/99fm_aac?type=.flv
 #EXTINF:-1 group-title="Radio" radio="true",ֳרדיו תל אביב [B][COLOR grey] רדיו - [/COLOR][/B]

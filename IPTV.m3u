@@ -28,9 +28,9 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2000_av-p.m3u8?sd=10&r
 mmsh://212.235.5.241/knessetlive
 #EXTINF:-1 group-title="Kids",ניקולודיאון ישיר [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
 http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear3.smil/chunklist_w453536338_b1164000.m3u8
-#EXTINF:-1 group-title="Kids",ערוץ הילדים, לופ [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
+#EXTINF:-1 group-title="Kids",ערוץ הילדים [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
 http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear1.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Kids",ערוץ זום, לופ [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
+#EXTINF:-1 group-title="Kids",זום [B][COLOR orange] ישראלי-ילדים - [/COLOR][/B]
 http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear7.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kids",ערוץ סדרות ברצף [B][COLOR orange] ישראלי - [/COLOR][/B]
 http://82.80.192.13:1935/plph_Linear3Repeat/_definst_/smil:Linear4.smil/chunklist_w750580762_b1164000.m3u8

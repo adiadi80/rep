@@ -765,7 +765,7 @@ rtmp://cdn10.mediacast.co.il:1935/liveradio playpath=1075.stream swfUrl=http://f
 #EXTINF:-1 group-title="Radio" radio="true",רשת ב [B][COLOR grey] רדיו - [/COLOR][/B]
 http://62.90.90.57/iba_radio-betMRepeat/_definst_/smil:radio-betM.smil/chunklist_w864323104_b202000.m3u8
 #EXTINF:-1 group-title="Radio" radio="true",רשת ג [B][COLOR grey] רדיו - [/COLOR][/B]
-http://31.168.228.117:1935/iba_radio-gimelMRepeat/_definst_/smil:radio-gimelM.smil/chunklist_w514673364_b202000.m3u8
+http://82.80.192.30/iba_radio-gimelMRepeat/_definst_/smil:radio-gimelM.smil/chunklist_w2126054823_b202000.m3u8
 #EXTINF:-1 group-title="Radio" radio="true",99.5 FM [B][COLOR grey] רדיו - [/COLOR][/B]
 http://46.4.41.68:8000/995fm?type=.flv
 #EXTINF:-1 group-title="Radio" radio="true",RadioDance רדיו [B][COLOR grey] רדיו - [/COLOR][/B]

@@ -1,6 +1,6 @@
 #EXTM3U
 ###########################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]8/6 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]11/6 UPDATED[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png",הערוץ הראשון [B][COLOR lime] ישראל - [/COLOR][/B]
 http://31.168.228.117:1935/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1139593700_b1392000.m3u8
@@ -226,22 +226,28 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 ##############################################################################################
 ###############################################################################################
- #EXTINF:0, BT Sport 1 [B][COLOR green] ספורט - [/COLOR][/B]
- http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8
- #EXTINF:0, BT Sport 2 [B][COLOR green] ספורט - [/COLOR][/B]
- http://185.59.222.65:8080/MHAJbmmhhjPIAmbt2/index.m3u8
- #EXTINF:0, BT Sport Europe [B][COLOR green] ספורט - [/COLOR][/B]
- http://185.59.222.65:8080/MHAJbmmhhjPIAmbteuro/index.m3u8
- #EXTINF:0, SkySport 1 [B][COLOR green] ספורט - [/COLOR][/B]
- http://185.59.222.65:8080/MHAJbmmhhjPIAmsky1/index.m3u8
- #EXTINF:0, SkySport 2 [B][COLOR green] ספורט - [/COLOR][/B]
- http://185.59.222.65:8080/MHAJbmmhhjPIAmsky2/index.m3u8
- #EXTINF:0, SkySport 3 [B][COLOR green] ספורט - [/COLOR][/B]
- http://185.59.222.65:8080/MHAJbmmhhjPIAmsky3/index.m3u8
- #EXTINF:0, SkySport 4 [B][COLOR green] ספורט - [/COLOR][/B]
- http://185.59.222.65:8080/MHAJbmmhhjPIAmsky4/index.m3u8
- #EXTINF:0, SkySport 5 [B][COLOR green] ספורט - [/COLOR][/B]
- http://185.59.222.65:8080/MHAJbmmhhjPIAmsky5/index.m3u8
+#EXTINF:0,Sky sport HD
+http://51.255.81.190:8080/IT-SKYSPORT1/mono.m3u8
+#EXTINF:0,Sky sport 2 HD
+http://51.255.81.190:8080/IT-SKYSPORT2/mono.m3u8
+#EXTINF:0,Bein Sport 1
+http://51.255.81.190:8080/FR-BEINSPORT-1/mono.m3u8
+#EXTINF:0,Bein sport 2
+http://51.255.81.190:8080/FR-BEINSPORT-2/mono.m3u8
+#EXTINF:0,Sky Sport 1 DE
+http://51.255.81.190:8080/DE-Sky-Sport-1HD/mono.m3u8
+#EXTINF:0,Fox Sport 1
+http://51.255.81.190:8080/NL:Fox.Sports.1/mono.m3u8
+#EXTINF:0,Sport tv 1
+http://51.255.81.190:8080/PT:SPORT.TV1/mono.m3u8
+#EXTINF:0,BT Sport 1
+http://51.255.81.190:8080/UK-BT-Sport-1/mono.m3u8
+#EXTINF:0,BT Sport 2
+http://51.255.81.190:8080/UK-BT-Sport-2/mono.m3u8
+#EXTINF:0,Sky Sport 1 UK
+http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
+#EXTINF:0,Sky Sport 2 UK
+http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8
 
 #EXTINF:-1 group-title="Sport",Eurosport 1 R/E[B][COLOR green] ספורט - [/COLOR][/B]
 http://178.172.245.155:4323/udp/238.1.0.24:1234

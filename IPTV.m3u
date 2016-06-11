@@ -226,35 +226,28 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 ##############################################################################################
 ###############################################################################################
-#EXTINF:0,Sky sport HD
+#EXTINF:0,Fox Sport HD [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/IT-SKYSPORT1/mono.m3u8
-#EXTINF:0,Sky sport 2 HD
+#EXTINF:0,Sky sport 2 HD [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/IT-SKYSPORT2/mono.m3u8
-#EXTINF:0,Bein Sport 1
+#EXTINF:0,Bein Sport 1 [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/FR-BEINSPORT-1/mono.m3u8
-#EXTINF:0,Bein sport 2
+#EXTINF:0,Bein sport 2 [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/FR-BEINSPORT-2/mono.m3u8
-#EXTINF:0,Sky Sport 1 DE
+#EXTINF:0,Sky Sport 1 DE [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/DE-Sky-Sport-1HD/mono.m3u8
-#EXTINF:0,Fox Sport 1
+#EXTINF:0,Fox Sport 1 [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/NL:Fox.Sports.1/mono.m3u8
-#EXTINF:0,Sport tv 1
+#EXTINF:0,Sport tv 1 [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/PT:SPORT.TV1/mono.m3u8
-#EXTINF:0,BT Sport 1
+#EXTINF:0,BT Sport 1 [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/UK-BT-Sport-1/mono.m3u8
-#EXTINF:0,BT Sport 2
+#EXTINF:0,BT Sport 2 [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/UK-BT-Sport-2/mono.m3u8
-#EXTINF:0,Sky Sport 1 UK
+#EXTINF:0,Sky Sport 1 UK [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/UK-Sky-Sports-1/mono.m3u8
-#EXTINF:0,Sky Sport 2 UK
+#EXTINF:0,Sky Sport 2 UK [B][COLOR green] ספורט - [/COLOR][/B]
 http://51.255.81.190:8080/UK-Sky-Sports-2/mono.m3u8
-
-#EXTINF:-1 group-title="Sport",Eurosport 1 R/E[B][COLOR green] ספורט - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.24:1234
-#EXTINF:-1 group-title="Sport",Eurosport 2 R/E[B][COLOR green] ספורט - [/COLOR][/B]
-http://178.172.245.155:4323/udp/238.1.0.6:1234
-#EXTINF:-1 group-title="Sport",FOX SPORT USA [B][COLOR green] ספורט - [/COLOR][/B]
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 #EXTINF:-1 group-title="Sport", Digi Sport 1 [B][COLOR green] ספורט - [/COLOR][/B]
 http://85.25.43.23:8080/hls/volex_02.m3u8
 #EXTINF:-1 group-title="Sport", Digi Sport 2 [B][COLOR green] ספורט - [/COLOR][/B]

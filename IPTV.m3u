@@ -61,7 +61,9 @@ http://77.120.118.235:8089
 
 ########################################################
 ########################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/comedyc.png" tvg-logo="comedyc.png" group-title="Entertainment", Comedy Central HD R/E[B][COLOR red] בידור - [/COLOR][/B]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/com2edyc.png" tvg-logo="com2edyc.png" group-title="Entertainment", הסימפסונים 24/7[B][COLOR red] בידור - [/COLOR][/B]
+http://veetle.com/index.php/hls/streamMbrfast/55e46f1440950_/stream.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/comedyc.png" tvg-logo="comedyc.png" group-title="Entertainment", Comedy Central[B][COLOR red] בידור - [/COLOR][/B]
 http://78.56.221.9:7059/comedy
 ########################################################
 #EXTINF:0,History Channel R/E[B][COLOR yellow] דוקומנטרי - [/COLOR][/B]

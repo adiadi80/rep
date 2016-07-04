@@ -22,8 +22,6 @@ http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish1/kLive/smil:1_3j5azqiu_a
 http://82.80.192.27/iba_channel-33MRepeat/_definst_/smil:channel-33M.smil/playlist.m3u8
 #EXTINF:333 logo="http://anarchitv.co/TV/Logos/2news.png" channel-id="333" epg-id="333" group-title="Israel" tvg-logo="2news.png",ערוץ חדשות 2 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_2000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:333 logo="http://anarchitv.co/TV/Logos/2n2ews.png" channel-id="333" epg-id="333" group-title="Israel" tvg-logo="2n2ews.png",ויוה ישראל [B][COLOR lime] ישראל - [/COLOR][/B]
-http://stream.tlvtv.com:1935/streamtv/_definst_/streams/viva/viva.stream/chunklist_w599723608.m3u8
 #EXTINF:99 logo="http://anarchitv.co/TV/Logos/99.png" channel-id="99" epg-id="99" group-title="Israel" tvg-logo="99.png",ערוץ הכנסת 99 [B][COLOR lime] ישראל - [/COLOR][/B]
 mmsh://212.235.5.241/knessetlive
 #EXTINF:91 logo="http://anarchitv.co/TV/Logos/meir.png" channel-id="91" epg-id="91" group-title="Israel" tvg-logo="meir.png",ערוץ מאיר [B][COLOR lime] ישראל - [/COLOR][/B]

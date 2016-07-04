@@ -1,9 +1,9 @@
 #EXTM3U
 ###########################################################################################
-#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]30/6 עודכן[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]4/07 עודכן[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png",הערוץ הראשון [B][COLOR lime] ישראל - [/COLOR][/B]
-http://62.90.90.56:1935/iba_channel-511BRepeat/_definst_/smil:channel-511B.smil/chunklist_w36911757_b1392000.m3u8
+http://62.90.90.56:1935/iba_channel-511MRepeat/_definst_/smil:channel-511M.smil/chunklist_w1066785810_b1392000.m3u8
 #EXTINF:22 logo="http://anarchitv.co/TV/Logos/2.png" aspect-ratio=16:9 channel-id="22" epg-id="22" group-title="Israel" tvg-logo="2.png", ערוץ 22  [B][COLOR lime] ישראל - [/COLOR][/B]
 http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8
 #EXTINF:10 logo="http://anarchitv.co/TV/Logos/10.png" channel-id="10" epg-id="10" group-title="Israel" tvg-logo="10.png",HD ערוץ 10 [B][COLOR lime] ישראל - [/COLOR][/B]

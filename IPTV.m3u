@@ -135,6 +135,8 @@ http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 ##############################################################################################
 ###############################################################################################
+#EXTINF:0,MTV Dance [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://178.163.100.40:8000/udp/232.0.0.233:2001
 #EXTINF:0, MTV Rocks [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://178.163.100.40:8000/udp/232.0.0.193:2001
 #EXTINF:0, MTV Hits [B][COLOR blue] מוזיקה - [/COLOR][/B]

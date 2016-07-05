@@ -15,7 +15,7 @@ http://80.244.172.41/ch20Live/ch20-High.m3u8
 #EXTINF:24 logo="http://anarchitv.co/TV/Logos/24.png" channel-id="24" epg-id="24" group-title="Israel" tvg-logo="24.png",ערוץ המוזיקה [B][COLOR lime] ישראל - [/COLOR][/B]
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/5.png" group-title="Israel" tvg-logo="5.png",ספורט 5 [B][COLOR lime] ישראל - [/COLOR][/B]
-http://televiz.net/tvv/s5m.m3u8
+http://televiz.net/tvv/s5m1.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/777.png" group-title="Israel" tvg-logo="777.png",יורו 2016 [B][COLOR lime] ישראל - [/COLOR][/B]
 http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish1/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
 #EXTINF:33 logo="http://anarchitv.co/TV/Logos/33.png" channel-id="33" epg-id="33" group-title="Israel" tvg-logo="33.png",ערוץ 33 [B][COLOR lime] ישראל - [/COLOR][/B]

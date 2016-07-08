@@ -62,6 +62,8 @@ http://77.120.118.235:8089
 
 ########################################################
 ########################################################
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/E.png" tvg-logo="E.png" group-title="Entertainment", E! [B][COLOR red] בידור - [/COLOR][/B]
+http://Fanel.iptvzone.me/iptv/C8EQZ64VCBUS9D/901/index.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/com2edyc.png" tvg-logo="com2edyc.png" group-title="Entertainment", הסימפסונים 24/7[B][COLOR red] בידור - [/COLOR][/B]
 http://veetle.com/index.php/hls/streamMbrfast/55e46f1440950_/stream.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/comedyc.png" tvg-logo="comedyc.png" group-title="Entertainment", Comedy Central[B][COLOR red] בידור - [/COLOR][/B]

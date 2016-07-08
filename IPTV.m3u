@@ -120,12 +120,14 @@ http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 ##############################################################################################
 ###############################################################################################
+#EXTINF:0,Mezzo HD [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://Fanel.iptvzone.me/iptv/C8EQZ64VCBUS9D/217/index.m3u8
 #EXTINF:0,MTV Dance [B][COLOR blue] מוזיקה - [/COLOR][/B]
-http://178.163.100.40:8000/udp/232.0.0.233:2001
-#EXTINF:0, MTV Rocks [B][COLOR blue] מוזיקה - [/COLOR][/B]
-http://178.163.100.40:8000/udp/232.0.0.193:2001
-#EXTINF:0, MTV Hits [B][COLOR blue] מוזיקה - [/COLOR][/B]
-http://178.163.100.40:8000/udp/232.0.0.194:2001
+http://Fanel.iptvzone.me/iptv/C8EQZ64VCBUS9D/558/index.m3u8
+#EXTINF:0, MTV Live HD [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://Fanel.iptvzone.me/iptv/C8EQZ64VCBUS9D/221/index.m3u8
+#EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VH1.png" group-title="Music" tvg-logo="VH1.png",VH1 Europe HD [B][COLOR blue] מוזיקה - [/COLOR][/B]
+http://Fanel.iptvzone.me/iptv/C8EQZ64VCBUS9D/536/index.m3u8
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/VH1.png" group-title="Music" tvg-logo="VH1.png",VH1 Classic R/E [B][COLOR blue] מוזיקה - [/COLOR][/B]
 http://37.195.219.210:81/udp/239.1.8.7:1234
 #EXTINF:-1 group-title="Music", Amazing TV [B][COLOR blue] מוזיקה - [/COLOR][/B]

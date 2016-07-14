@@ -78,7 +78,7 @@ http://37.195.219.210:81/udp/239.1.5.1:1234
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Documentary" tvg-logo="nationalgeographic.png", National Geographic Wild [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://37.195.219.210:81/udp/239.1.5.16:1234
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/nationalgeographic.png" group-title="Documentary" tvg-logo="nationalgeographic.png", National Geographic -R/E [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
-http://37.195.219.210:81/udp/239.1.5.8:1234
+http://151.237.173.116:4022/udp/239.45.2.54:1234 
 
 #EXTINF:331 logo="http://anarchitv.co/TV/Logos/RT%20Documentary.png" channel-id="331" epg-id="331" group-title="Documentary" tvg-logo="RT%20Documentary.png", RT Documentary [B][COLOR yellow] דוקומנטרי - [/COLOR][/B]
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8

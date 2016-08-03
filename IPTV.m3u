@@ -2,6 +2,8 @@
 ###########################################################################################
 #EXTINF:-1 logo="http://anarchitv.co/TV/Logos/anarchi.png" tvg-logo="anarchi.png",[COLOR red]3/08 עודכן[/COLOR][COLOR yellow][I][B] AnarchiTV.CO הכנסו לאתר [/B][/I][/COLOR]
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:11,[B][COLOR lime]הודעה חשובה [/COLOR][/B]
+http://bit.ly/2aTg5mQ
 #EXTINF:11,הודעה חשובה [B][COLOR lime] ישראל - [/COLOR][/B]
 http://bit.ly/2aTg5mQ
 #EXTINF:11 logo="http://anarchitv.co/TV/Logos/1.png" channel-id="11" epg-id="11" group-title="Israel" tvg-logo="1.png",הערוץ הראשון [B][COLOR lime] ישראל - [/COLOR][/B]
